@@ -1,0 +1,4 @@
+C++ program using threads and system calls
+to fork and run another program. Also uses
+shared memory.
+Usage: # ./prog.exe {bees num} {amount beear eats} {time bear eats}
